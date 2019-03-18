@@ -1,4 +1,4 @@
-# TP-final-cours-javascript
+# TP-final-cours-javascript-OpenClassrooms.com
 
 Création d'un site de partage de liens en communication avec un serveur web externe via requêtes AJAX.
 
